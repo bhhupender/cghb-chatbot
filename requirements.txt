@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+httpx
+sqlalchemy
+psycopg2-binary
+redis
+sentence-transformers
+faiss-cpu
+openai
+python-multipart
+python-dotenv
+requests
+python-magic
+pymupdf      # for PDF text extraction (fitz)
+streamlit
